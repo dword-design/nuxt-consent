@@ -1,12 +1,12 @@
 <!-- TITLE/ -->
-# nuxt-consent
+# @dword-design/nuxt-consent
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
   <p>
-    <a href="https://npmjs.org/package/nuxt-consent">
+    <a href="https://npmjs.org/package/@dword-design/nuxt-consent">
       <img
-        src="https://img.shields.io/npm/v/nuxt-consent.svg"
+        src="https://img.shields.io/npm/v/@dword-design/nuxt-consent.svg"
         alt="npm version"
       >
     </a><img src="https://img.shields.io/badge/os-linux%20%7C%C2%A0macos%20%7C%C2%A0windows-blue" alt="Linux macOS Windows compatible"><a href="https://github.com/dword-design/nuxt-consent/actions">
@@ -58,10 +58,10 @@
 
 ```bash
 # npm
-$ npm install nuxt-consent
+$ npm install @dword-design/nuxt-consent
 
 # Yarn
-$ yarn add nuxt-consent
+$ yarn add @dword-design/nuxt-consent
 ```
 <!-- /INSTALL -->
 
