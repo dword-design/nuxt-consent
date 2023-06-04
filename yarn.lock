@@ -1389,13 +1389,13 @@
   dependencies:
     "@dword-design/functions" "^4.0.7"
 
-"@dword-design/vue-consent@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@dword-design/vue-consent/-/vue-consent-1.0.0.tgz#b958bc56d97efd5fdbdee45d96b7b8f1588878a8"
-  integrity sha512-gyrLrVRsi1Vfcsl2s7d9c7xq59SSyAl2kzWSVgC2GhLkpdg7o0iQQdEwZaNGsb0zdJJ1fD+/NSNr37kvwudf9Q==
+"@dword-design/vue-consent@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@dword-design/vue-consent/-/vue-consent-2.0.0.tgz#0574be1e1b7cb61b986554a1aefc5aa5e94a0385"
+  integrity sha512-+vLn1ezmRo/CzYWOTcdcn57tAl7VfM0bt8mu7qYsHxSX8nlSSp4gzVKhG1IMsFbPlH7EYmqF21UXU+AIuO1aJA==
   dependencies:
-    "@dword-design/functions" "^4.0.7"
     js-cookie "^2.0.0"
+    lodash-es "^4.17.21"
     parse-domain "^3.0.0"
 
 "@endemolshinegroup/cosmiconfig-typescript-loader@^3.0.2":
@@ -6427,6 +6427,11 @@ locate-path@^6.0.0:
   integrity sha512-iPZK6eYjbxRu3uB4/WZ3EsEIMJFMqAoopl3R+zuq0UjcAm/MO6KCweDgPfP3elTztoKP3KtnVHxTn2NHBSDVUw==
   dependencies:
     p-locate "^5.0.0"
+
+lodash-es@^4.17.21:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.21.tgz#43e626c46e6591b7750beb2b50117390c609e3ee"
+  integrity sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==
 
 lodash.camelcase@4.3.0:
   version "4.3.0"

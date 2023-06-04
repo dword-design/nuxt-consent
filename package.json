@@ -19,7 +19,7 @@
     "test": "base test"
   },
   "dependencies": {
-    "@dword-design/vue-consent": "^1.0.0"
+    "@dword-design/vue-consent": "^2.0.0"
   },
   "devDependencies": {
     "@dword-design/base": "^8.6.12",
