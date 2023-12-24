@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dword-design/nuxt-consent/compare/v1.0.2...v1.0.3) (2023-12-24)
+
+
+### Bug Fixes
+
+* update dependency vue to v2.7.16 ([42e3e8b](https://github.com/dword-design/nuxt-consent/commit/42e3e8bc12331e234f6d07705da34fef2e0dca92))
+
 ## [1.0.2](https://github.com/dword-design/nuxt-consent/compare/v1.0.1...v1.0.2) (2023-10-23)
 
 
